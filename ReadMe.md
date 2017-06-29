@@ -1,4 +1,4 @@
-# Projekt Programu ktÛry rankinguje kluby dla grypy osÛb
+# Projekt Programu kt√≥ry rankinguje kluby dla grupy os√≥b
 
-Program aktyalnie dzia≥a ale kod jest napisany brzydko
+Program aktualnie dzia≈Ça ale kod jest napisany brzydko
 
